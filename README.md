@@ -80,7 +80,7 @@ print(filtered)
 # CSVDatabase Module
 
 ## Overview
-A Python module that lets you treat CSV files as a lightweight database. All docstrings and error messages are written in Japanese so that beginners can easily understand them.
+A Python module that lets you treat CSV files as a lightweight database. All docstrings and error messages are written in Japanese so that beginners can easily understand them for Japanese developers.
 
 ## Features
 - Use an existing CSV file directly as a database
